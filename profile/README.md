@@ -1,2 +1,1 @@
-![STACK Banner](stack-banner.jpg)
-
+![STACK Banner](stack-github-banner.jpg)
